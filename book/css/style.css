@@ -1,0 +1,14 @@
+body {background-color: darkgray}
+
+a :hover {color: darkorange}
+p {margin-left:15px; }
+h4 {text-align:right;color: darkgreen}
+h6 {text-align:center}
+input {text-align:right}
+.book {position:absolute;right:10px }
+.bloc1 {width:100%;height:400px;display:flex}
+.bloc2 {width:100%;height:150px;display:flex}
+.bloc3 {width:100%;height:400px;display:flex}
+.photo {border: saddlebrown}
+.rod {margin-left: 10px;color: coral}
+hr {color:blue}
