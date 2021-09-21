@@ -1,6 +1,6 @@
 body {background-color: darkgray}
 
-a :hover {color: darkorange}
+a:hover {color: darkorange}
 p {margin-left:15px; }
 h4 {text-align:right;color: darkgreen}
 h6 {text-align:center}
